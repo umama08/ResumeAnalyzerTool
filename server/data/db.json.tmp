@@ -1,0 +1,22 @@
+{
+  "jobs": [
+    {
+      "id": "4445a0f2-399b-4365-b202-3e0f9cc3717f",
+      "title": "Frontend Developer",
+      "description": "We are looking for a frontend developer with experience building modern web applications.",
+      "requiredSkills": [
+        "React",
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "Git",
+        "Node.js"
+      ],
+      "location": "Remote",
+      "experience": "2 years",
+      "employmentType": "Full-time",
+      "createdAt": "2026-09-06T09:56:33.638Z"
+    }
+  ],
+  "candidates": []
+}
