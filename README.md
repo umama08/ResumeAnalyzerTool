@@ -43,20 +43,6 @@ Resume Analyzer turns a batch of resumes into a ranked, skill-based shortlist:
 
 ---
 
-## Screenshots
-
-Run the app locally, then capture:
-
-- Dashboard metrics
-- Jobs list
-- Create job form
-- Resume upload
-- Ranked candidate table
-- Candidate detail / skill-gap report
-
-Place images in `docs/screenshots/` if you want them in this README.
-
----
 
 ## Technology stack
 
