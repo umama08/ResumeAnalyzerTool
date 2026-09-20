@@ -215,16 +215,5 @@ Use Postman or curl against the routes above. Check 400 responses for missing jo
 
 ---
 
-## Privacy and responsible use
 
-Do not present scores as “this candidate should be hired.” Use language such as:
 
-> This candidate has an 87% skill match with the selected job requirements.
-
-Final hiring decisions stay with the recruiter. Production use would also need privacy, retention, access control, and employment-compliance review.
-
----
-
-## SafeX use case
-
-This tool could be adapted as an internal screening aid for SafeX or similar fintech/digital-payment teams: upload a batch of applications, rank by required technical skills, and spend more time on deeper evaluation. This is a proposed use case and does not imply that SafeX currently uses the system.
