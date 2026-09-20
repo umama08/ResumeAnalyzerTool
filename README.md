@@ -87,9 +87,6 @@ MAX_FILE_SIZE_MB=5
 CLIENT_ORIGIN=http://localhost:5173
 ```
 
-Keep secrets out of source control. This MVP does not require API keys.
-
----
 
 ## API documentation
 
